@@ -1,0 +1,340 @@
+<html>
+<head>
+	<title>The News</title>
+	<style>
+		*{
+			margin: 0;
+			padding: 0;
+			border: 0;	
+			box-sizing: border-box;
+		}
+		body {
+			line-height: 1;
+			font-family: 'Lucida Sans', 'Lucida Sans Regular', Geneva, Verdana, sans-serif;
+			background-color: white;
+		}
+		ol, ul {
+			list-style: none;
+		}
+		a{
+			text-decoration: none;
+		}
+		img{
+			width: 100%;
+		}
+
+
+		/*Header Style*/
+		.container{
+			width: 1180px;
+			margin: 0 auto;
+		}
+		.nav{
+			position:fixed;
+			top:0;
+			
+		}
+
+		.header .logo{
+			width: 200px;
+			margin: 35px auto;
+		}
+		.header .menu{
+			display: inline-block;
+			width: 100%;
+			background-color: #0b3b83;
+			height: 50px;
+			line-height: 50px;
+		}
+		.header .menu ul{
+			display: flex;
+		}
+		.header .menu ul li{
+			flex: auto;
+			text-align: center;
+		}
+		.header .menu ul li a{
+			color: white;
+			text-decoration: none;
+			font-weight: 500;
+		}
+		.header .menu ul li:hover{
+			background-color: rgba(194, 238, 238, 0.801);	
+		}
+		.header .menu ul li a:hover{
+			color: black;
+		}
+		.body-content{
+			width: 100%;
+			min-height: 100px;
+			float: left;
+		}
+		.content-left{
+			width: 63%;
+			float: left;
+		}
+		.content-right{
+			width: 34%;
+			float: right;
+		}
+
+		/*News Portal Style*/
+		.news-portal{
+			display: inline-block;
+			width: 100%;
+			margin-top: 35px;
+		}
+		.text:hover,.right:hover{
+		padding: 5px;
+		box-shadow: 10px 10px 10px 10px rgb(67, 82, 82);
+		}
+		.news-portal h3{
+			display: inline-block;
+			background-color: #141a7257;
+			color: black;
+			font-size: 20px;
+			font-weight: 700;
+			padding: 10px;
+			width: 100%;
+			margin-bottom: 10px;
+		}
+		.news-portal figure{
+			width: 48%;
+			float: left;
+			background:linear-gradient(to bottom, rgba(123, 192, 231, 0.603), #828686);
+			padding: 5px;
+			margin-bottom: 25px;
+			box-shadow: 0 3rem 6rem 1rem rgba(0, 0, 0, 0.2);
+		}
+		.bigimage {
+			opacity: 1;
+			display: block;
+			width: 100%;
+			height: auto;
+			transition: .5s ease;
+			backface-visibility: hidden;
+		}
+		.centered {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+		}   
+		.bigimage:hover  {
+			opacity: 0.3;
+		}
+		.news-portal figcaption{
+			font-size: 16px;
+			color:white;
+			padding: 3px;
+			line-height: 20px;
+		}
+		figure.floatright{
+			float: right;
+		}
+
+
+		/*News Board Style*/
+		.news-board{
+			display: inline-block;
+			width: 100%;
+			margin-bottom: 55px;
+			
+		}
+		.news-board h3{
+			display: inline-block;
+			background-color: #141a7257;
+			color: black;
+			font-size: 16px;
+			font-weight: 700;
+			padding: 10px;
+			width: 100%;
+			margin-bottom: 10px;
+			text-transform: uppercase;
+		}
+		.news-roller{
+			display: inline-block;
+			background: linear-gradient(to bottom, rgba(123, 192, 231, 0.603), #828686);
+			box-shadow: 0 3rem 6rem 1rem rgba(0, 0, 0, 0.2);
+		}
+		.news-roller p{
+			width: 97%;
+			display: inline-block;
+			margin-bottom: 10px;
+			margin: 5px;
+			box-shadow: 0 3px 1px gainsboro;
+			box-sizing: border-box;
+		}
+		.news-roller p a{
+			color: black;
+
+		}
+		.news-roller img{
+			width: 26%;
+			float: left;
+			margin-right: 5px;
+		}
+		.news-roller span{
+			padding: 5px;
+			width: 70%;
+			display: inline-block;
+			line-height: 20px;
+		}
+	</style>
+</head>
+<body>
+	<div class="header">		
+		<div class="nav menu">
+			<div class=" container">
+				<ul>
+					<li><a href="#home">Home</a></li>
+					<li><a href="#local">Local News</a></li>
+					<li><a href="#international">International News</a></li>
+					<li><a href="#entertainment">Entertainment</a></li>
+					<li><a href="#sports">Sports</a></li>
+					<li><a href="#business">Business</a></li>
+					<li><a href="#fl">Fashion &amp; Lifestyle</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="home" class="logo"><img height="200px" width="200px" src="https://i.pinimg.com/originals/d3/29/bc/d329bc8545c0f2ef549835e3e08838f1.png" alt="logo"></div>
+	
+	</div>
+
+	<div class="body-content">
+		<div class="container">
+			<div class="content-left">				
+				<div class="news-portal">
+					<h3 id="local">Local News</h3>
+					<figure>
+						<a href="/fullarticle?type=local&index=0">
+							<img class="bigimage" src="https://miro.medium.com/max/700/1*ndVqWAcksmbsiHmWPoLczw.jpeg"></a>							
+							<figcaption>								
+								<h4>HEADLINE</h4>
+							</figcaption>						
+					</figure>
+					<figure class="floatright">
+						<a href="/fullarticle?type=local&index=1">
+							<img class="bigimage" src="https://i.guim.co.uk/img/media/85ca3b4b984044d3b04e4b449c1bbb75ada5ccf5/0_178_3370_2022/master/3370.jpg?width=300&quality=85&auto=format&fit=max&s=8c694b80c6992ab1df53bf1890a095cd"></a>
+							<figcaption>
+								<h4>HEADLINE</h4>
+							</figcaption>
+						
+					</figure>
+				</div>
+
+				<!-- Local News Portal End -->
+				<div class="news-portal">
+					<h3 id="international">International News</h3>
+					<figure>
+						<a href="/fullarticle?type=international&index=0">
+							<img class="bigimage" src="https://cdn.ca.emap.com/wp-content/uploads/sites/6/2019/07/world-map.jpg"></a>
+							<figcaption>
+								<h4>HEADLINE</h4>
+							</figcaption>
+						
+					</figure>
+					<figure class="floatright">
+						<a href="/fullarticle?type=international&index=1">
+							<img class="bigimage" src="https://www.care-international.org/files/images/NewsFromAroundtheWorld.jpg"></a>
+							<figcaption>
+								<h4>HEADLINE</h4>
+							</figcaption>
+						
+					</figure>
+				</div>
+				<!-- International News Portal End -->
+
+
+
+				<!-- Business News Portal Start -->
+				<div class="news-portal">
+					<h3 id="business">Business News</h3>
+					<figure>
+						<a href="/fullarticle?type=business&index=0">
+							<img class="bigimage" src="https://static.dw.com/image/47219195_401.png"></a>
+							<figcaption>
+								<h4>HEADLINE</h4>
+							</figcaption>
+					
+					</figure>
+					<figure class="floatright">
+						<a href="/fullarticle?type=business&index=1">
+							<img class="bigimage" src="https://www.fluentu.com/blog/business-english/wp-content/uploads/sites/20/2018/03/business-news-in-english.jpg"></a>
+							<figcaption>
+								<h4>HEADLINE</h4>
+							</figcaption>
+						
+					</figure>
+					
+				</div>
+				<!-- Business News Portal End -->
+
+			</div>
+			<!-- Content Left End -->
+
+			<!-- Content Right Start -->
+			<div class="content-right">
+				
+					<div class="news-board">
+						<h3 id="fl">Fashion &amp Lifestyle</h3>
+						<div class="news-roller">
+							<p class="right"><a href="/fullarticle?type=fnl&index=0">
+								<img src="https://www.lux-review.com/wp-content/uploads/2018/04/Fashion-Lifestyle-Awards-Logo.png">
+								<span>HEADLINE</span>
+							</a></p>
+							<p class="right"><a href="/fullarticle?type=fnl&index=1">
+								<img src="https://www.tenangles.com/wp-content/uploads/2018/05/Fashionandlifestyle.jpeg">
+								<span>HEADLINE</span>
+							</a></p>
+							<p class="right"><a href="/fullarticle?type=fnl&index=2">
+								<img src="https://www.unboxsocial.com/blog/wp-content/uploads/2019/05/fashion-and-lifestyle-influencer.jpeg">
+								<span>HEADLINE</span>
+							</a></p>
+							<p class="right"><a href="/fullarticle?type=fnl&index=3">
+								<img src="https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/top-shop_660_103014065240.jpg">
+								<span>HEADLINE</span>
+							</a></p>							
+						</div>
+					</div>
+					<!-- F and L News Board End -->
+					
+					<div class="news-board">
+						<h3 id="sports">Sports</h3>
+						<div class="news-roller">
+							<a href="/fullarticle?type=sports&index=0">
+							<p class="right">
+								<img src="https://images.indianexpress.com/2020/05/sports-stars-in-lockdown.jpg">
+								<span>HEADLINE</span>
+							</a></p><a href="/fullarticle?type=sports&index=1">
+							<p class="right">
+								<img src="https://img.freepik.com/free-vector/sports-news-with-abstract-background-sports-elements_1419-1926.jpg?size=626&ext=jpg&ga=GA1.2.228842172.1617235200">
+								<span>HEADLINE</span>
+							</a></p>
+						</div>
+					</div>
+
+					<div class="news-board">
+						<h3 id="entertainment">Entertainment</h3>
+						<div class="news-roller">
+							<p class="right"><a href="/fullarticle?type=entertainment&index=0">
+								<img src="https://thumbs.dreamstime.com/b/paparazzi-taking-picture-celebrity-illustration-flat-vector-famous-man-posing-to-photographers-red-carpet-actor-singer-166264903.jpg">
+								<span>HEADLINE</span>
+							</a></p>
+							<p class="right"><a href="/fullarticle?type=entertainment&index=1">
+								<img src="https://thumbs.dreamstime.com/b/cartoon-celebrity-people-arriving-to-red-carpet-limousine-famous-man-woman-standing-paparazzi-photographer-crowd-193303500.jpg">
+								<span>HEADLINE</span>
+							</a></p>
+							<p class="right"><a href="/fullarticle?type=entertainment&index=2">
+								<img src="https://thumbs.dreamstime.com/b/vector-illustration-two-celebrity-red-carpet-posing-to-photographer-paparazzi-famos-beautiful-actor-actress-walk-162490870.jpg">
+								<span>HEADLINE</span>
+							</a></p>
+						</div>
+					</div>
+
+				</div>
+			</div>	
+			<!-- Content Right End -->
+		</div>
+</body>
+</html>

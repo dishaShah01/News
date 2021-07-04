@@ -1,0 +1,152 @@
+[
+    {
+        "headline":"HEADLINE",
+        "index":0,
+        "type":"local",
+        "writer":"ABC XYZ",
+        "date":"12/04/21",
+        "location":"Mumbai",
+        "article":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris euismod fringilla turpis ut cursus. Fusce lobortis porttitor bibendum. Pellentesque venenatis nec velit eu ultricies. Aliquam sit amet nunc urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis bibendum, dolor eu elementum condimentum, est tortor fermentum purus, ac consectetur lectus elit rutrum nisi. Nam dapibus finibus risus sed aliquam. Suspendisse finibus nunc ac lacus dignissim fermentum. Sed venenatis ultrices libero, at vulputate turpis aliquet vel. Ut magna nisl, commodo a tempus eget, venenatis eu lectus. Etiam nec magna nec nibh porttitor ultricies vel sodales magna. Suspendisse pharetra elit vel odio elementum semper. Integer eu sagittis massa. Maecenas tortor massa, lacinia eu quam pulvinar, venenatis efficitur dolor. Donec mauris odio, dictum vel quam ut, pharetra vestibulum urna. Nam aliquet rutrum nisl sed venenatis. Ut eleifend nibh quis nibh pretium, quis lacinia quam dictum. Nulla aliquam fermentum nisi. Sed condimentum metus eget arcu pharetra sollicitudin. Donec vitae iaculis nisl, a imperdiet urna. Maecenas at placerat sem, et dapibus eros.Morbi tempus eu ex quis semper. Ut ultricies enim id ultrices auctor. In sit amet tempor neque, a auctor libero. Duis tristique nunc quis felis tincidunt, nec vehicula tellus finibus. Nam eu mollis neque. Phasellus est risus, efficitur et vulputate lacinia, ornare vel augue. Aenean sit amet lacus dignissim sem volutpat vehicula. Nulla et orci ac libero malesuada ullamcorper. Vivamus vel risus a tellus dignissim tempus. Morbi eget risus accumsan mauris ornare egestas sit amet ut ex. Donec hendrerit ut nulla ut viverra."
+    },
+
+    {
+        "headline":"HEADLINE",
+        "index":1,
+        "type":"local",
+        "writer":"KSB XSNUI",
+        "date":"13/04/21",
+        "location":"Thane",
+        "article":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris euismod fringilla turpis ut cursus. Fusce lobortis porttitor bibendum. Pellentesque venenatis nec velit eu ultricies.  per inceptos himenaeos. Duis bibendum, dolor eu elementum condimentum, est tortor fermentum purus, ac consectetur lectus elit rutrum nisi. Nam dapibus finibus risus sed aliquam. Suspendisse finibus nunc ac lacus dignissim fermentum. Sed venenatis ultrices libero, at vulputate turpis aliquet vel. Ut magna nisl, commodo a tempus eget, venenatis eu lectus. Etiam nec magna nec nibh porttitor ultricies vel sodales magna. Suspendisse pharetra elit vel odio elementum semper. Integer eu sagittis massa. Maecenas tortor massa, lacinia eu quam pulvinar, venenatis efficitur dolor. Donec mauris odio, dictum vel quam ut, pharetra vestibulum urna. Nam aliquet rutrum nisl sed venenatis. Ut eleifend nibh quis nibh pretium, quis lacinia quam dictum. Nulla aliquam fermentum nisi. Sed condimentum metus eget arcu pharetra sollicitudin. Donec vitae iaculis nisl, a imperdiet urna. Maecenas at placerat sem, et dapibus eros.Morbi tempus eu ex quis semper. Ut ultricies enim id ultrices auctor. In sit amet tempor neque, a auctor libero. Duis tristique nunc quis felis tincidunt, nec vehicula tellus finibus. Nam eu mollis neque. Phasellus est risus, efficitur et vulputate lacinia, ornare vel augue. Aenean sit amet lacus dignissim sem volutpat vehicula. Nulla et orci ac libero malesuada ullamcorper. Vivamus vel risus a tellus dignissim tempus. Morbi eget risus accumsan mauris ornare egestas sit amet ut ex. Donec hendrerit ut nulla ut viverra."
+    },
+
+    {
+        "headline":"HEADLINE",
+        "index":0,
+        "type":"international",
+        "writer":"QWE TYU",
+        "date":"14/04/21",
+        "location":"USA",
+        "article":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris euismod fringilla turpis ut cursus. Fusce lobortis porttitor bibendum. Pellentesque venenatis nec velit eu ultricies. Ataciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis bibendum, dolor eu elementum condimentum, est tortor fermentum purus, ac consectetur lectus elit rutrum nisi. Nam dapibus finibus risus sed aliquam. Suspendisse finibus nunc ac lacus dignissim fermentum. Sed venenatis ultrices libero, at vulputate turpis aliquet vel. Ut magna nisl, commodo a tempus eget, venenatis eu lectus. Etiam nec magna nec nibh porttitor ultricies vel sodales magna. Suspendisse pharetra elit vel odio elementum semper. Integer eu sagittis massa. Maecenas tortor massa, lacinia eu quam pulvinar, venenatis efficitur dolor. Donec mauris odio, dictum vel quam ut, pharetra vestibulum urna. Nam aliquet rutrum nisl sed venenatis. Ut eleifend nibh quis nibh pretium, quis lacinia quam dictum. Nulla aliquam fermentum nisi. Sed condimentum metus eget arcu pharetra sollicitudin. Donec vitae iaculis nisl, a imperdiet urna. Maecenas at placerat sem, et dapibus eros.Morbi tempus eu ex quis semper. Ut ultricies enim id ultrices auctor. In sit amet tempor neque, a auctor libero. Duis tristique nunc quis felis tincidunt, nec vehicula tellus finibus. Nam eu mollis neque. Phasellus est risus, efficitur et vulputate lacinia, ornare vel augue. Aenean sit amet lacus dignissim sem volutpat vehicula. Nulla et orci ac libero malesuada ullamcorper. Vivamus vel risus a tellus dignissim tempus. Morbi eget risus accumsan mauris ornare egestas sit amet ut ex. Donec hendrerit ut nulla ut viverra."
+    },
+
+    {
+        "headline":"HEADLINE",
+        "index":1,
+        "type":"international",
+        "writer":"TUSB USIU",
+        "date":"13/04/21",
+        "location":"China",
+        "article":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris euismod fringilla turpis ut cursus. Fusce lobortis porttitor bibendum. Pellentesque venenatis nec velit eu ultricies. Aliquam sit amet nunc urna.  inceptos himenaeos. Duis bibendum, dolor eu elementum condimentum, est tortor fermentum purus, ac consectetur lectus elit rutrum nisi. Nam dapibus finibus risus sed aliquam. Suspendisse finibus nunc ac lacus dignissim fermentum. Sed venenatis ultrices libero, at vulputate turpis aliquet vel. Ut magna nisl, commodo a tempus eget, venenatis eu lectus. Etiam nec magna nec nibh porttitor ultricies vel sodales magna. Suspendisse pharetra elit vel odio elementum semper. Integer eu sagittis massa. Maecenas tortor massa, lacinia eu quam pulvinar, venenatis efficitur dolor. Donec mauris odio, dictum vel quam ut, pharetra vestibulum urna. Nam aliquet rutrum nisl sed venenatis. Ut eleifend nibh quis nibh pretium, quis lacinia quam dictum. Nulla aliquam fermentum nisi. Sed condimentum metus eget arcu pharetra sollicitudin. Donec vitae iaculis nisl, a imperdiet urna. Maecenas at placerat sem, et dapibus eros.Morbi tempus eu ex quis semper. Ut ultricies enim id ultrices auctor. In sit amet tempor neque, a auctor libero. Duis tristique nunc quis felis tincidunt, nec vehicula tellus finibus. Nam eu mollis neque. Phasellus est risus, efficitur et vulputate lacinia, ornare vel augue. Aenean sit amet lacus dignissim sem volutpat vehicula. Nulla et orci ac libero malesuada ullamcorper. Vivamus vel risus a tellus dignissim tempus. Morbi eget risus accumsan mauris ornare egestas sit amet ut ex. Donec hendrerit ut nulla ut viverra."
+    },
+
+    {
+        "headline":"HEADLINE",
+        "index":0,
+        "type":"business",
+        "writer":"JKL XCV",
+        "date":"10/04/21",
+        "location":"Delhi",
+        "article":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris euismod fringilla turpis ut cursus. Fusce lobortis porttitor bibendum. Pellentesque venenatis nec velit eu ultricies. Aliquam sit amet nunc urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis bibendum, dolor eu elementum condimentum, est tortor fermentum purus, ac consectetur lectus elit rutrum nisi. Nam dapibus finibus risus sed aliquam. Suspendisse finibus nunc ac lacus dignissim fermentum. Sed venenatis ultrices libero, at vulputate turpis aliquet vel. Ut magna nisl, commodo a tempus eget, venenatis eu lectus. Etiam nec magna nec nibh porttitor ultricies vel sodales magna. Suspendisse pharetra elit vel odio elementum semper. Integer eu sagittis massa. Maecenas tortor massa, lacinia eu quam pulvinar, venenatis efficitur dolor. Donec mauris odio, dictum vel quam ut, pharetra vestibulum urna. Nam aliquet rutrum nisl sed venenatis. Ut eleifend nibh quis nibh pretium, quis lacinia quam dictum. Nulla aliquam fermentum nisi. Sed condimentum metus eget arcu pharetra sollicitudin. Donec vitae iaculis nisl, a imperdiet urna. Maecenas at placerat sem, et dapibus eros.Morbi tempus eu ex quis semper. Ut ultricies enim id ultrices auctor. In sit amet tempor neque, a auctor libero. Duis tristique nunc quis felis tincidunt, nec vehicula tellus finibus. Nam eu mollis neque. Phasellus est risus, efficitur et vulputate lacinia, ornare vel augue. Aenean sit amet lacus dignissim sem volutpat vehicula. Nulla et orci ac libero malesuada ullamcorper. Vivamus vel risus a tellus dignissim tempus. Morbi eget risus accumsan mauris ornare egestas sit amet ut ex. Donec hendrerit ut nulla ut viverra."
+    },
+
+    {
+        "headline":"HEADLINE",
+        "index":1,
+        "type":"business",
+        "writer":"JSN SYV",
+        "date":"12/04/21",
+        "location":"Bangalore",
+        "article":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris euismod fringilla turpis ut cursus. Fusce lobortis porttitor bibendum. Pellentesque venenatis nec velit eu ultricies. Aliquam sit amet nunc urna. Duis bibendum, dolor eu elementum condimentum, est tortor fermentum purus, ac consectetur lectus elit rutrum nisi. Nam dapibus finibus risus sed aliquam. Suspendisse finibus nunc ac lacus dignissim fermentum. Sed venenatis ultrices libero, at vulputate turpis aliquet vel. Ut magna nisl, commodo a tempus eget, venenatis eu lectus. Etiam nec magna nec nibh porttitor ultricies vel sodales magna. Suspendisse pharetra elit vel odio elementum semper. Integer eu sagittis massa. Maecenas tortor massa, lacinia eu quam pulvinar, venenatis efficitur dolor. Donec mauris odio, dictum vel quam ut, pharetra vestibulum urna. Nam aliquet rutrum nisl sed venenatis. Ut eleifend nibh quis nibh pretium, quis lacinia quam dictum. Nulla aliquam fermentum nisi. Sed condimentum metus eget arcu pharetra sollicitudin. Donec vitae iaculis nisl, a imperdiet urna. Maecenas at placerat sem, et dapibus eros.Morbi tempus eu ex quis semper. Ut ultricies enim id ultrices auctor. In sit amet tempor neque, a auctor libero. Duis tristique nunc quis felis tincidunt, nec vehicula tellus finibus. Nam eu mollis neque. Phasellus est risus, efficitur et vulputate lacinia, ornare vel augue. Aenean sit amet lacus dignissim sem volutpat vehicula. Nulla et orci ac libero malesuada ullamcorper. Vivamus vel risus a tellus dignissim tempus. Morbi eget risus accumsan mauris ornare egestas sit amet ut ex. Donec hendrerit ut nulla ut viverra."
+    },
+
+    {
+        "headline":"HEADLINE",
+        "index":0,
+        "type":"sports",
+        "writer":"FGH BNM",
+        "date":"12/04/21",
+        "location":"Australia",
+        "article":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris euismod fringilla turpis ut cursus. Fusce lobortis porttitor bibendum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis bibendum, dolor eu elementum condimentum, est tortor fermentum purus, ac consectetur lectus elit rutrum nisi. Nam dapibus finibus risus sed aliquam. Suspendisse finibus nunc ac lacus dignissim fermentum. Sed venenatis ultrices libero, at vulputate turpis aliquet vel. Ut magna nisl, commodo a tempus eget, venenatis eu lectus. Etiam nec magna nec nibh porttitor ultricies vel sodales magna. Suspendisse pharetra elit vel odio elementum semper. Integer eu sagittis massa. Maecenas tortor massa, lacinia eu quam pulvinar, venenatis efficitur dolor. Donec mauris odio, dictum vel quam ut, pharetra vestibulum urna. Nam aliquet rutrum nisl sed venenatis. Ut eleifend nibh quis nibh pretium, quis lacinia quam dictum. Nulla aliquam fermentum nisi. Sed condimentum metus eget arcu pharetra sollicitudin. Donec vitae iaculis nisl, a imperdiet urna. Maecenas at placerat sem, et dapibus eros.Morbi tempus eu ex quis semper. Ut ultricies enim id ultrices auctor. In sit amet tempor neque, a auctor libero. Duis tristique nunc quis felis tincidunt, nec vehicula tellus finibus. Nam eu mollis neque. Phasellus est risus, efficitur et vulputate lacinia, ornare vel augue. Aenean sit amet lacus dignissim sem volutpat vehicula. Nulla et orci ac libero malesuada ullamcorper. Vivamus vel risus a tellus dignissim tempus. Morbi eget risus accumsan mauris ornare egestas sit amet ut ex. Donec hendrerit ut nulla ut viverra."
+    },
+
+    {
+        "headline":"HEADLINE",
+        "index":1,
+        "type":"sports",
+        "writer":"FGHAT NHGBNM",
+        "date":"16/04/21",
+        "location":"Brazil",
+        "article":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris euismod fringilla turpis ut cursus. Fusce lobortis porttitor bibendum. Pellentesque venenatis nec velit eu ultricies. Aliquam sit amet nunc urna. Class aptent tstra, per inceptos himenaeos. Duis bibendum, dolor eu elementum condimentum, est tortor fermentum purus, ac consectetur lectus elit rutrum nisi. Nam dapibus finibus risus sed aliquam. Suspendisse finibus nunc ac lacus dignissim fermentum. Sed venenatis ultrices libero, at vulputate turpis aliquet vel. Ut magna nisl, commodo a tempus eget, venenatis eu lectus. Etiam nec magna nec nibh porttitor ultricies vel sodales magna. Suspendisse pharetra elit vel odio elementum semper. Integer eu sagittis massa. Maecenas tortor massa, lacinia eu quam pulvinar, venenatis efficitur dolor. Donec mauris odio, dictum vel quam ut, pharetra vestibulum urna. Nam aliquet rutrum nisl sed venenatis. Ut eleifend nibh quis nibh pretium, quis lacinia quam dictum. Nulla aliquam fermentum nisi. Sed condimentum metus eget arcu pharetra sollicitudin. Donec vitae iaculis nisl, a imperdiet urna. Maecenas at placerat sem, et dapibus eros.Morbi tempus eu ex quis semper. Ut ultricies enim id ultrices auctor. In sit amet tempor neque, a auctor libero. Duis tristique nunc quis felis tincidunt, nec vehicula tellus finibus. Nam eu mollis neque. Phasellus est risus, efficitur et vulputate lacinia, ornare vel augue. Aenean sit amet lacus dignissim sem volutpat vehicula. Nulla et orci ac libero malesuada ullamcorper. Vivamus vel risus a tellus dignissim tempus. Morbi eget risus accumsan mauris ornare egestas sit amet ut ex. Donec hendrerit ut nulla ut viverra."
+    },
+
+    {
+        "headline":"HEADLINE",
+        "index":0,
+        "type":"fnl",
+        "writer":"RTY GHJ",
+        "date":"13/04/21",
+        "location":"Los Angeles",
+        "article":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris euismod fringilla turpis ut cursus. Fusce lobortis porttitor bibendum. Pellentesque venenatis nec velit eu ultricies. Aliquam sit amet nunc urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis bibendum, dolor eu elementum condimentum, est tortor fermentum purus, ac consectetur lectus elit rutrum nisi. Nam dapibus finibus risus sed aliquam. Suspendisse finibus nunc ac lacus dignissim fermentum. Sed venenatis ultrices libero, at vulputate turpis aliquet vel. Ut magna nisl, commodo a tempus eget, venenatis eu lectus. Etiam nec magna nec nibh porttitor ultricies vel sodales magna. Suspendisse pharetra elit vel odio elementum semper. Integer eu sagittis massa. Maecenas tortor massa, lacinia eu quam pulvinar, venenatis efficitur dolor. Donec mauris odio, dictum vel quam ut, pharetra vestibulum urna. Nam aliquet rutrum nisl sed venenatis. Ut eleifend nibh quis nibh pretium, quis lacinia quam dictum. Nulla aliquam fermentum nisi. Sed condimentum metus eget arcu pharetra sollicitudin. Donec vitae iaculis nisl, a imperdiet urna. Maecenas at placerat sem, et dapibus eros.Morbi tempus eu ex quis semper. Ut ultricies enim id ultrices auctor. In sit amet tempor neque, a auctor libero. Duis tristique nunc quis felis tincidunt, nec vehicula tellus finibus. Nam eu mollis neque. Phasellus est risus, efficitur et vulputate lacinia, ornare vel augue. Aenean sit amet lacus dignissim sem volutpat vehicula. Nulla et orci ac libero malesuada ullamcorper. Vivamus vel risus a tellus dignissim tempus. Morbi eget risus accumsan mauris ornare egestas sit amet ut ex. Donec hendrerit ut nulla ut viverra."
+    },
+
+    {
+        "headline":"HEADLINE",
+        "index":1,
+        "type":"fnl",
+        "writer":"KSHDB GHJ",
+        "date":"13/04/21",
+        "location":"Paris",
+        "article":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris euismod fringilla turpis ut cursus. Fusce lobortis porttitor bibendum. Pellentesque venenatis nec velit eu ultricie Duis bibendum, dolor eu elementum condimentum, est tortor fermentum purus, ac consectetur lectus elit rutrum nisi. Nam dapibus finibus risus sed aliquam. Suspendisse finibus nunc ac lacus dignissim fermentum. Sed venenatis ultrices libero, at vulputate turpis aliquet vel. Ut magna nisl, commodo a tempus eget, venenatis eu lectus. Etiam nec magna nec nibh porttitor ultricies vel sodales magna. Suspendisse pharetra elit vel odio elementum semper. Integer eu sagittis massa. Maecenas tortor massa, lacinia eu quam pulvinar, venenatis efficitur dolor. Donec mauris odio, dictum vel quam ut, pharetra vestibulum urna. Nam aliquet rutrum nisl sed venenatis. Ut eleifend nibh quis nibh pretium, quis lacinia quam dictum. Nulla aliquam fermentum nisi. Sed condimentum metus eget arcu pharetra sollicitudin. Donec vitae iaculis nisl, a imperdiet urna. Maecenas at placerat sem, et dapibus eros.Morbi tempus eu ex quis semper. Ut ultricies enim id ultrices auctor. In sit amet tempor neque, a auctor libero. Duis tristique nunc quis felis tincidunt, nec vehicula tellus finibus. Nam eu mollis neque. Phasellus est risus, efficitur et vulputate lacinia, ornare vel augue. Aenean sit amet lacus dignissim sem volutpat vehicula. Nulla et orci ac libero malesuada ullamcorper. Vivamus vel risus a tellus dignissim tempus. Morbi eget risus accumsan mauris ornare egestas sit amet ut ex. Donec hendrerit ut nulla ut viverra."
+    },
+
+    {
+        "headline":"HEADLINE",
+        "index":2,
+        "type":"fnl",
+        "writer":"RTFDY GHIUJ",
+        "date":"15/04/21",
+        "location":"Mumbai",
+        "article":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris euismod fringilla turpis ut cursus. Fusce lobortis porttitor bibendum. Pellass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis bibendum, dolor eu elementum condimentum, est tortor fermentum purus, ac consectetur lectus elit rutrum nisi. Nam dapibus finibus risus sed aliquam. Suspendisse finibus nunc ac lacus dignissim fermentum. Sed venenatis ultrices libero, at vulputate turpis aliquet vel. Ut magna nisl, commodo a tempus eget, venenatis eu lectus. Etiam nec magna nec nibh porttitor ultricies vel sodales magna. Suspendisse pharetra elit vel odio elementum semper. Integer eu sagittis massa. Maecenas tortor massa, lacinia eu quam pulvinar, venenatis efficitur dolor. Donec mauris odio, dictum vel quam ut, pharetra vestibulum urna. Nam aliquet rutrum nisl sed venenatis. Ut eleifend nibh quis nibh pretium, quis lacinia quam dictum. Nulla aliquam fermentum nisi. Sed condimentum metus eget arcu pharetra sollicitudin. Donec vitae iaculis nisl, a imperdiet urna. Maecenas at placerat sem, et dapibus eros.Morbi tempus eu ex quis semper. Ut ultricies enim id ultrices auctor. In sit amet tempor neque, a auctor libero. Duis tristique nunc quis felis tincidunt, nec vehicula tellus finibus. Nam eu mollis neque. Phasellus est risus, efficitur et vulputate lacinia, ornare vel augue. Aenean sit amet lacus dignissim sem volutpat vehicula. Nulla et orci ac libero malesuada ullamcorper. Vivamus vel risus a tellus dignissim tempus. Morbi eget risus accumsan mauris ornare egestas sit amet ut ex. Donec hendrerit ut nulla ut viverra."
+    },
+
+    {
+        "headline":"HEADLINE",
+        "index":3,
+        "type":"fnl",
+        "writer":"WYTY GDHJ",
+        "date":"14/04/21",
+        "location":"Sydney",
+        "article":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris euismod fringilla turpis ut cursus. Fusce lobortis porttitor bibendum. Pellentesque venenatis nec velit eu ultricies. Aliquam sit amet nunc urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis bibendum, dolor eu elementum condimentum, est tortor fermentum purus, ac consectetur lectus elit rutrum nisi. Nam dapibus finibus risus sed aliquam. Suspendisse finibus nunc ac lacus dignissim fermentum. Sed venenatis ultrices libero, at vulputate turpis aliquet vel. Ut magna nisl, commodo a tempus eget, venenatis eu lectus. Etiam nec magna nec nibh porttitor ultricies vel sodales magna. Suspendisse pharetra elit vel odio elementum semper. Integer eu sagittis massa. Maecenas tortor massa, lacinia eu quam pulvinar, venenatis efficitur dolor. Donec mauris odio, dictum vel quam ut, pharetra vestibulum urna. Nam aliquet rutrum nisl sed venenatis. Ut eleifend nibh quis nibh pretium, quis lacinia quam dictum. Nulla aliquam fermentum nisi. Sed condimentum metus eget arcu pharetra sollicitudin. Donec vitae iaculis nisl, a imperdiet urna. Maecenas at placerat sem, et dapibus eros.Morbi tempus eu ex quis semper. Ut ultricies enim id ultrices auctor. In sit amet tempor neque, a auctor libero. Duis tristique nunc quis felis tincidunt, nec vehicula tellus finibus. Nam eu mollis neque. Phasellus est risus, efficitur et vulputate lacinia, ornare vel augue. Aenean sit amet lacus dignissim sem volutpat vehicula. Nulla et orci ac libero malesuada ullamcorper. Vivamus vel risus a tellus dignissim tempus. Morbi eget risus accumsan mauris ornare egestas sit amet ut ex. Donec hendrerit ut nulla ut viverra."
+    },
+
+
+    {
+        "headline":"HEADLINE",
+        "index":0,
+        "type":"entertainment",
+        "writer":"WER IOP",
+        "date":"14/04/21",
+        "location":"Mumbai",
+        "article":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris euismod fringilla turpis ut cursus. Fusce lobortis porttitor bibendum. Pellentesque venenatis nec velit eu ultricies. Aliquam sit amet nunc urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis bibendum, dolor eu elementum condimentum, est tortor fermentum purus, ac consectetur lectus elit rutrum nisi. Nam dapibus finibus risus sed aliquam. Suspendisse finibus nunc ac lacus dignissim fermentum. Sed venenatis ultrices libero, at vulputate turpis aliquet vel. Ut magna nisl, commodo a tempus eget, venenatis eu lectus. Etiam nec magna nec nibh porttitor ultricies vel sodales magna. Suspendisse pharetra elit vel odio elementum semper. Integer eu sagittis massa. Maecenas tortor massa, lacinia eu quam pulvinar, venenatis efficitur dolor. Donec mauris odio, dictum vel quam ut, pharetra vestibulum urna. Nam aliquet rutrum nisl sed venenatis. Ut eleifend nibh quis nibh pretium, quis lacinia quam dictum. Nulla aliquam fermentum nisi. Sed condimentum metus eget arcu pharetra sollicitudin. Donec vitae iaculis nisl, a imperdiet urna. Maecenas at placerat sem, et dapibus eros.Morbi tempus eu ex quis semper. Ut ultricies enim id ultrices auctor. In sit amet tempor neque, a auctor libero. Duis tristique nunc quis felis tincidunt, nec vehicula tellus finibus. Nam eu mollis neque. Phasellus est risus, efficitur et vulputate lacinia, ornare vel augue. Aenean sit amet lacus dignissim sem volutpat vehicula. Nulla et orci ac libero malesuada ullamcorper. hendrerit ut nulla ut viverra."
+    },
+    {
+        "headline":"HEADLINE",
+        "index":1,
+        "type":"entertainment",
+        "writer":"DBNIS KSNHAU",
+        "date":"17/04/21",
+        "location":"Los Angeles",
+        "article":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris euismod fringilla turpis ut cursus. Fusce lobortis porttitor bibendum. Pellentesque venenatis nec velit eu ultricies. Aliquam sit amet nunc urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis bibendum, dolor eu elementum condimentum, est tortor fermentum purus, ac consectetur lectus elit rutrum nisi. Nam dapibus finibus risus sed aliquam. Suspendisse finibus nunc ac lacus dignissim fermentum. Sed venenatis ultrices libero, at vulputate turpis aliquet vel. Ut magna nisl, commodo a tempus eget, venenatis eu lectus. Etiam nec magna nec nibh porttitor ultricies vel sodales magna. Suspendisse pharetra elit vel odio elementum semper. Integer eu sagittis massa. Maecenas tortor massa, lacinia eu quam pulvinar, venenatis efficitur dolor. Donec mauris odio, dictum vel quam ut, pharetra vestibulum urna. Nam aliquet rutrum nisl sed venenatis. Ut eleifend nibh quis nibh pretium, quis lacinia quam dictum. Nulla aliquam fermentum nisi. Sed condimentum metus eget arcu pharetra sollicitudin. Donec vitae iaculis nisl, a imperdiet urna. Maecenas at placerat sem, et dapibus eros.Morbi tempus eu ex quis semper. Ut ultricies enim id ultrices auctor. In sit amet tempor neque, a auctor libero. Duis tristique nunc quis felis tincidunt, nec vehicula tellus finibus. Nam eu mollis neque. Phasellus est risus, efficitur et vulputate lacinia, ornare vel augue. Aenean sit amet lacus dignissim sem volutpat vehicula. Nulla et orci ac libero malesuada ullamcorper. Vivamus vel risus a tellus dignissim tempus. Morbi eget risus accumsan mauris viverra."
+    },
+    {
+        "headline":"HEADLINE",
+        "index":2,
+        "type":"entertainment",
+        "writer":"HGVN IOPUY",
+        "date":"16/04/21",
+        "location":"England",
+        "article":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris euismod fringilla turpis ut cursus. Fusce lobortis porttitor bibendum. Pellentesque venenatis nec velit eu ultricies. Aliquam sit amet nunc urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis bibendum, dolor eu elementum condimentum, est tortor fermentum purus, ac consectetur lectus elit rutrum nisi. Nam dapibus finibus risus sed aliquam. Suspendisse finibus nunc ac lacus dignissim fermentum. Sed venenatis ultrices libero, at vulputate turpis aliquet vel. Ut magna nisl, commodo a tempus eget, venenatis eu lectus. Etiam nec magna nec nibh porttitor ultricies vel sodales magna. Suspendisse pharetra elit vel odio elementum semper. Integer eu sagittis massa. Maecenas tortor massa, lacinia eu quam pulvinar, venenatis efficitur dolor. Donec mauris odio, dictum vel quam ut, pharetra vestibulum urna. Nam aliquet rutrum nisl sed venenatis. Ut eleifend nibh quis nibh pretium, quis lacinia quam dictum. Nulla aliquam fermentum nisi. Sed condimentum metus eget arcu pharetra sollicitudin. Donec vitae iaculis nisl, a imperdiet urna. Maecenas at placerat sem, et dapibus eros.Morbi tempus eu ex quis semper. Ut ultricies enim id ultrices auctor. In sit amet tempor neque, a auctor libero. Duis tristique nunc quis felis tincidunt, nec vehicula tellus finibus. Nam eu mollis neque. Phasellus est risus, efficitur et vulputate lacinia, ornare vel augue. Aenean sit amet lacus dignissim sem volutpat vehicula. Nulla et orci ac libero malesuada ullamcorper. Vivamus vel risus a tellus dignissim tempus. Morbi eget risus accumsan mauris ornare egestas sit amet ut ex. Donec hendrerit ut nulla ut viverra."
+    }
+]
+
+
